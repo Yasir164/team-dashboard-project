@@ -18,6 +18,19 @@ main {
   padding: 40px 20px;
 }
 
+.cards {
+  display: flex;
+  gap: 16px;
+  margin-top: 24px;
+}
+
+.card {
+  flex: 1;
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 16px;
+  text-align: center;
 header {
   display: flex;
   align-items: center;
