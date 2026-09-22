@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #222;
+}
+
+.layout {
+  display: flex;
+}
+
+main {
+  flex: 1;
+  padding: 40px 20px;
+}
